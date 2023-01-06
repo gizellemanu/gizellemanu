@@ -1,6 +1,6 @@
 <body>
 <div>
-<h3><strong>Hi I'm Gizelle Emanuela </strong><img height="100" width="160" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></h3>
+<h3><strong>Hi I'm Gizelle Emanuela </strong><img height="100" width="160" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"><img height="100" width="160" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/leaf_36kxytjd.gif"></h3>
 </div>
 </body>
 <div>
