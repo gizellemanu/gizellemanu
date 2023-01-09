@@ -3,10 +3,11 @@
 <h3><strong>Hi I'm Gizelle Emanuela </strong><img height="100" width="160" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></h3>
 </div>
 </body>
+   
 <div>
   <a href="https://github.com/gizellemanu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gizellemanu&show_icons=true&theme=swift"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizellemanu&layout=compact&theme=swift"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gizellemanu&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizellemanu&layout=compact"/>
   </div>
 
 <div>
