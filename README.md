@@ -7,11 +7,6 @@
 </div>
 
    
-<div>
-  <a href="https://github.com/gizellemanu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gizellemanu&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizellemanu&layout=compact"/>
-  </div>
 
   ![snake-gif](https://github.com/gizellemanu/gizellemanu/blob/output/github-contribution-grid-snake.svg)
 
