@@ -1,9 +1,7 @@
 <body>
 <div>
-<h3><strong>Hi I'm Gizelle Emanuela </strong><img height="100" width="160" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="margin-right: 1000px;"><a href="https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-   # #
-   </h3>  
+<h3><strong>Hi I'm Gizelle Emanuela </strong><img height="100" width="160" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="margin-right: 1000px;"></h3> <a href="https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>
 
    
