@@ -22,8 +22,8 @@ Hello! I am an electrical engineer specializing in software engineering, passion
 ## Featured Projects 🌟
 
 - **Project 1:** Developed a responsive web application for managing the fashion industry sector, using Angular to create an intuitive and interactive interface.
-- **Project 2:** Built an API, implementing advanced search features and dynamic filters using SQL, .NET Core, and Entity Framework.
-- **Project 3:** Designed a website for an events industry client, focused on performance optimization and user experience, utilizing Angular, SQL, .NET Core, and Entity Framework.
+- **Project 2:** Built an API, implementing advanced search features and dynamic filters using SQL, .NET web API, and Entity Framework Core.
+- **Project 3:** Designed a website for an events industry client, focused on performance optimization and user experience, utilizing Angular, SQL, .NET web API, and Entity Framework Core.
 
 ## How to Reach Me 📬
 
@@ -59,8 +59,8 @@ Olá! Sou uma engenheira eletricista com especialização em engenharia de softw
 ## Projetos Destacados 🌟
 
 - **Projeto 1:** Desenvolvimento de um website web responsivo para gerenciamento do setor de moda, utilizando Angular para criar uma interface intuitiva e interativa.
-- **Projeto 2:** Desenvolvimento de uma API, implementando recursos de busca avançada e filtros dinâmicos usando SQL, .NET Core e Entity Framework.
-- **Projeto 3:** Criação de um website para um cliente do setor de eventos, focado em otimização de desempenho e experiência do usuário, usando Angular, SQL, .NET Core e Entity Framework.
+- **Projeto 2:** Desenvolvimento de uma API, implementando recursos de busca avançada e filtros dinâmicos usando SQL, .NET web API e Entity Framework Core.
+- **Projeto 3:** Criação de um website para um cliente do setor de eventos, focado em otimização de desempenho e experiência do usuário, usando Angular, SQL, .NET web API e Entity Framework Core.
 
 ## Como Entrar em Contato 📬
 
