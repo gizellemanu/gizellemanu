@@ -5,7 +5,7 @@ Hello! I am an electrical engineer specializing in software engineering, passion
 
 ## About Me 🚀
 
-- 🎓 Graduated in Electrical Engineering, focusing on energy systems and electronics.
+- 🎓 Graduated in Electrical Engineering, focusing in automation systems  and electronics.
 - 📘 Specialized in Software Engineering, with expertise in frontend development and software architecture.
 - 💼 Currently working as a frontend engineer, transforming creative ideas into functional and appealing user interfaces.
 - 🌟 Passionate about technology, innovation, and continuous learning.
@@ -42,7 +42,7 @@ Olá! Sou uma engenheira eletricista com especialização em engenharia de softw
 
 ## Sobre Mim 🚀
 
-- 🎓 Graduada em Engenharia Elétrica, com foco em sistemas de energia e eletrônica.
+- 🎓 Graduada em Engenharia Elétrica, com foco em automação de sistemas e eletrônica.
 - 📘 Especializada em Engenharia de Software, com ênfase em desenvolvimento frontend e arquitetura de software.
 - 💼 Trabalho atualmente como engenheira frontend, transformando ideias criativas em interfaces de usuário funcionais e atraentes.
 - 🌟 Apaixonada por tecnologia, inovação e aprendizado contínuo.
