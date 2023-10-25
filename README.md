@@ -28,7 +28,7 @@ Hello! I am an electrical engineer specializing in software engineering, passion
 ## How to Reach Me 📬
 
 - 💼 LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
-- 🌐 Portfolio: [progress...](link to your website)
+- 🌐 Portfolio: [progress...]
 - 📧 Email: gizellemanu@hotmail.com
 
 Feel free to get in touch! I'm always open to collaborations and new opportunities in the frontend development world. Let's create something amazing together! 😊
@@ -65,7 +65,7 @@ Olá! Sou uma engenheira eletricista com especialização em engenharia de softw
 ## Como Entrar em Contato 📬
 
 - 💼 LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
-- 🌐 Portfolio: [progress...](link do seu website)
+- 🌐 Portfolio: [progress...]
 - 📧 Email: gizellemanu@hotmail.com
 
 Fique à vontade para entrar em contato! Estou sempre aberta a colaborações e novas oportunidades no mundo do desenvolvimento frontend. Vamos criar algo incrível juntos! 😊
