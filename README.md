@@ -13,8 +13,8 @@ Hello! I am an electrical engineer specializing in software engineering, passion
 ## My Skills 🛠️
 
 - **Programming Languages:** JavaScript, HTML, CSS
-- **Frameworks and Libraries:** React.js, Angular
-- **Development Tools:** Git, Webpack, Babel
+- **Frameworks and Libraries:** Angular,  React.js
+- **Development Tools:** Git
 - **Design and Prototyping:** Figma, Sketch
 - **Methodologies:** Agile Development, Scrum
 - **Other Skills:** UI/UX Design, Accessibility, Usability Testing
@@ -50,9 +50,9 @@ Olá! Sou uma engenheira eletricista com especialização em engenharia de softw
 ## Minhas Habilidades 🛠️
 
 - **Linguagens de Programação:** JavaScript, HTML, CSS
-- **Frameworks e Bibliotecas:** React.js, Angular
-- **Ferramentas de Desenvolvimento:** Git, Webpack, Babel
-- **Design e Prototipagem:** Figma, Sketch
+- **Frameworks e Bibliotecas:** Angular, React.js
+- **Ferramentas de Desenvolvimento:** Git
+- **Design e Prototipagem:** Figma
 - **Metodologias:** Desenvolvimento Ágil, Scrum
 - **Outras Habilidades:** UI/UX Design, Acessibilidade, Testes de Usabilidade
 
