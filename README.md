@@ -12,7 +12,7 @@ Hello! I am an electrical engineer specializing in software engineering, passion
 
 ## My Skills 🛠️
 
-- **Programming Languages:** JavaScript, HTML, CSS
+- **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS
 - **Frameworks and Libraries:** Angular,  React.js
 - **Development Tools:** Git
 - **Design and Prototyping:** Figma, Sketch
@@ -49,7 +49,7 @@ Olá! Sou uma engenheira eletricista com especialização em engenharia de softw
 
 ## Minhas Habilidades 🛠️
 
-- **Linguagens de Programação:** JavaScript, HTML, CSS
+- **Linguagens de Programação:** JavaScript, HTML, CSS, Tailwind CSS
 - **Frameworks e Bibliotecas:** Angular, React.js
 - **Ferramentas de Desenvolvimento:** Git
 - **Design e Prototipagem:** Figma
