@@ -1,7 +1,7 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
 ## Frontend Software Engineer | Passionate About Innovation and Technology
-<p style="text-align: justify;">As an electrical engineer with a specialization in software engineering, I transform creative ideas into functional and attractive user interfaces. With a strong focus on frontend development and software architecture, my experience ranges from conception to implementation of innovative technological solutions.</p>
+<p style="text-align: justify;">As an electrical engineer with a specialization in software engineering, I transform creative ideas into functional and attractive user interfaces. With a strong focus on frontend development and software architecture, my expertise spans from conception to implementation of innovative technological solutions.</p>
 
 ### Experience and Technical Skills:
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap.
@@ -27,7 +27,7 @@ I am available to discuss opportunities and how I can add value to your team. Fe
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
 ## Engenheira de Software Frontend | Apaixonada por Inovação e Tecnologia
-<p style="text-align: justify;">Como engenheira eletricista com especialização em engenharia de software, transformo ideias criativas em interfaces de usuário funcionais e atraentes. Com um forte foco em desenvolvimento frontend e arquitetura de software, minha experiência abrange desde a concepção até a implementação de soluções tecnológicas inovadoras.</p>
+<p style="text-align: justify;">Como engenheira eletricista com especialização em engenharia de software, transformo ideias criativas em interfaces de usuário funcionais e atraentes. Com um forte foco em desenvolvimento frontend e arquitetura de software, meu conhecimento abrange desde a concepção até a implementação de soluções tecnológicas inovadoras.</p>
 
 ### Experiência e Habilidades Técnicas:
 - **Linguagens de Programação:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap.
