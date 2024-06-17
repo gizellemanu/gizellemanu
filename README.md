@@ -21,7 +21,6 @@ I am seeking new opportunities in software engineering and frontend development 
 I am available to discuss opportunities and how I can add value to your team. Feel free to reach out to me!
 - LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
 - Email: gizellemanu@hotmail.com
-😊
 
 <br>
 <br>
