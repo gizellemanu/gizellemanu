@@ -1,72 +1,50 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
-# Electrical Engineer and Software Engineering Specialist 
-Hello! I am an electrical engineer specializing in software engineering, passionate about frontend development. My love for technology has led me to explore and deepen my knowledge in interface design and user experience, creating innovative and elegant solutions for digital challenges.
+## Frontend Software Engineer | Passionate About Innovation and Technology
+<p style="text-align: justify;">As an electrical engineer with a specialization in software engineering, I transform creative ideas into functional and attractive user interfaces. With a strong focus on frontend development and software architecture, my experience ranges from conception to implementation of innovative technological solutions.</p>
 
-## About Me 🚀
+### Experience and Technical Skills:
+- **Programming Languages:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap.
+- **Frameworks:** Angular, React.js.
+- **Tools:** Git, SQL, .NET, Entity Framework Core.
+- **Agile Methodologies:** Agile Development, Scrum, Kaizen, Kanban.
+- **Other Skills:** UI/UX Design, Accessibility, Usability Testing.
 
-- 🎓 Graduated in Electrical Engineering, focusing in automation systems  and electronics.
-- 📘 Specialized in Software Engineering, with expertise in frontend development and software architecture.
-- 💼 Currently working as a frontend engineer, transforming creative ideas into functional and appealing user interfaces.
-- 🌟 Passionate about technology, innovation, and continuous learning.
+### Highlights:
+- **User Experience Creation:** Projects focused on usability and accessibility, ensuring intuitive and inclusive interfaces.
+- **Continuous Learning:** Constant commitment to updating and improving technical skills and market practices.
 
-## My Skills 🛠️
+### Professional Objective:
+I am seeking new opportunities in software engineering and frontend development where I can apply my skills and knowledge to create innovative technological solutions. I am particularly interested in positions that offer technical challenges and opportunities for professional growth.
 
-- **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS
-- **Frameworks and Libraries:** Angular,  React.js
-- **Development Tools:** Git
-- **Design and Prototyping:** Figma, Sketch
-- **Methodologies:** Agile Development, Scrum
-- **Other Skills:** UI/UX Design, Accessibility, Usability Testing
-
-## Featured Projects 🌟
-
-- **Project 1:** Developed a responsive web application for managing the fashion industry sector, using Angular to create an intuitive and interactive interface.
-- **Project 2:** Built an API, implementing advanced search features and dynamic filters using SQL, .NET web API, and Entity Framework Core.
-- **Project 3:** Designed a website for an events industry client, focused on performance optimization and user experience, utilizing Angular, SQL, .NET web API, and Entity Framework Core.
-
-## How to Reach Me 📬
-
-- 💼 LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
-- 🌐 Portfolio: [progress...]
-- 📧 Email: gizellemanu@hotmail.com
-
-Feel free to get in touch! I'm always open to collaborations and new opportunities in the frontend development world. Let's create something amazing together! 😊
+### Contact:
+I am available to discuss opportunities and how I can add value to your team. Feel free to reach out to me!
+- LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
+- Email: gizellemanu@hotmail.com
+😊
 
 <br>
 <br>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
-# Engenheira Eletricista e Especialista em Engenharia de Software
-Olá! Sou uma engenheira eletricista com especialização em engenharia de software, apaixonada por desenvolvimento frontend. Minha paixão pela tecnologia me levou a explorar e aprofundar meus conhecimentos em design de interfaces e experiência do usuário, criando soluções inovadoras e elegantes para os desafios do mundo digital.
+## Engenheira de Software Frontend | Apaixonada por Inovação e Tecnologia
+<p style="text-align: justify;">Como engenheira eletricista com especialização em engenharia de software, transformo ideias criativas em interfaces de usuário funcionais e atraentes. Com um forte foco em desenvolvimento frontend e arquitetura de software, minha experiência abrange desde a concepção até a implementação de soluções tecnológicas inovadoras.</p>
 
-## Sobre Mim 🚀
+### Experiência e Habilidades Técnicas:
+- **Linguagens de Programação:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap.
+- **Frameworks:** Angular, React.js.
+- **Ferramentas:** Git, SQL, .NET, Entity Framework Core.
+- **Metodologias Ágeis:** Desenvolvimento Ágil, Scrum, Kaizen, Kanban.
+- **Outras Competências:** UI/UX Design, Acessibilidade, Testes de Usabilidade.
 
-- 🎓 Graduada em Engenharia Elétrica, com foco em automação de sistemas e eletrônica.
-- 📘 Especializada em Engenharia de Software, com ênfase em desenvolvimento frontend e arquitetura de software.
-- 💼 Trabalho atualmente como engenheira frontend, transformando ideias criativas em interfaces de usuário funcionais e atraentes.
-- 🌟 Apaixonada por tecnologia, inovação e aprendizado contínuo.
+### Destaques:
+- **Criação de Experiências de Usuário:** Projetos focados em usabilidade e acessibilidade, garantindo interfaces intuitivas e inclusivas.
+- **Aprendizado Contínuo:** Compromisso constante com a atualização e aperfeiçoamento de habilidades técnicas e práticas de mercado.
 
-## Minhas Habilidades 🛠️
+### Objetivo Profissional:
+Busco novas oportunidades na área de engenharia de software e desenvolvimento frontend, onde eu possa aplicar minhas habilidades e conhecimentos para criar soluções tecnológicas inovadoras. Estou especialmente interessada em posições que ofereçam desafios técnicos e oportunidades para crescer profissionalmente.
 
-- **Linguagens de Programação:** JavaScript, HTML, CSS, Tailwind CSS
-- **Frameworks e Bibliotecas:** Angular, React.js
-- **Ferramentas de Desenvolvimento:** Git
-- **Design e Prototipagem:** Figma
-- **Metodologias:** Desenvolvimento Ágil, Scrum
-- **Outras Habilidades:** UI/UX Design, Acessibilidade, Testes de Usabilidade
-
-## Projetos Destacados 🌟
-
-- **Projeto 1:** Desenvolvimento de um website web responsivo para gerenciamento do setor de moda, utilizando Angular para criar uma interface intuitiva e interativa.
-- **Projeto 2:** Desenvolvimento de uma API, implementando recursos de busca avançada e filtros dinâmicos usando SQL, .NET web API e Entity Framework Core.
-- **Projeto 3:** Criação de um website para um cliente do setor de eventos, focado em otimização de desempenho e experiência do usuário, usando Angular, SQL, .NET web API e Entity Framework Core.
-
-## Como Entrar em Contato 📬
-
-- 💼 LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
-- 🌐 Portfolio: [progress...]
-- 📧 Email: gizellemanu@hotmail.com
-
-Fique à vontade para entrar em contato! Estou sempre aberta a colaborações e novas oportunidades no mundo do desenvolvimento frontend. Vamos criar algo incrível juntos! 😊
-
+### Contato:
+Estou disponível para discutir oportunidades e como posso agregar valor à sua equipe. Sinta-se à vontade para entrar em contato comigo!
+- LinkedIn: [Gizelle Emanuela Silva](https://www.linkedin.com/in/gizelle-emanuela-silva-806384207/)
+- Email: gizellemanu@hotmail.com
