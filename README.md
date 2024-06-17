@@ -23,7 +23,7 @@ I am available to discuss opportunities and how I can add value to your team. Fe
 - Email: gizellemanu@hotmail.com
 
 <br>
-<br>
+<hr>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
 ## Engenheira de Software Frontend | Apaixonada por Inovação e Tecnologia
